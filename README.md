@@ -35,12 +35,12 @@
 
 <hr>
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mastercodermerwin&show_icons=true&theme=radical">
- <img width="50%" src="https://streak-stats.demolab.com?user=mastercodermerwin&theme=radical" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=merwin-asm&show_icons=true&theme=radical">
+ <img width="50%" src="https://streak-stats.demolab.com?user=merwin-asm&theme=radical" />
 
  </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodermerwin&layout=compact&langs_count=10&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwin-asm&layout=compact&langs_count=10&theme=radical">
 
 </p>
 <hr>
