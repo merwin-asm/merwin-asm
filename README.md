@@ -3,6 +3,8 @@
 <h1 align="left">Cat \README.md</h1> 
 <h3 align="left">Just an another developer...</h3>  
 <br>
+<a href="https://merwin-asm.github.io/"><img src="https://media.discordapp.net/attachments/951417646191083551/1092052774230954045/image.png"></a>
+<br>
 <p float="left">
   <a href="https://www.reddit.com/user/MrCactochan"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" width="100" /></a>  
   <a href="https://medium.com/@merwinmathews1001"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="100" /> </a>
